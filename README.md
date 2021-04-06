@@ -1,3 +1,3 @@
 # YTP
 Youth Tech Bootcamp
-updating description 
+updating descriptions
