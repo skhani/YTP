@@ -1,4 +1,2 @@
 # YTP
-Youth Tech Bootcamp
-updating descriptions
-s
+Welcome to the bootcamp
